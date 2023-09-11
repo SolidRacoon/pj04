@@ -336,6 +336,7 @@ footer {
 .animttl {
   position: fixed;
   background: white;
+  max-width:1440px;
   width: 100%;
   margin: auto;
   display: flex;
