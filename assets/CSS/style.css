@@ -768,6 +768,8 @@ body {
   font-weight: 500;
   line-height: normal;
   min-width: 320px;
+  max-width: 1440px;
+  margin:auto;
 }
 
 a {
