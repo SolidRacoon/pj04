@@ -593,7 +593,7 @@ header {
 .body_cards {
   display: flex;
   flex-direction: column;
-  width: 92%;
+  width: 85%;
   margin: auto;
 }
 .body_cards h3 {
