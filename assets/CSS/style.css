@@ -9,6 +9,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
+
 }
 
 .header_arrow {
@@ -560,6 +561,8 @@ header {
   width: 100%;
   position: relative;
   z-index: -1;
+  object-fit: cover;
+  height:415px;
 }
 
 .main_body {
@@ -671,6 +674,7 @@ header {
   height: 19px;
 }
 
+
 .annimation {
   top: 43px;
   right: 16px;
@@ -694,12 +698,9 @@ header {
   .header_img {
     box-shadow: none;
   }
-  .main_img {
-    margin-top: -25rem;
-    clip-path: inset(0 0 20rem 0);
-  }
+
   .main_body {
-    margin-top: -24rem;
+    margin-top: -2rem;
   }
   .body_header {
     justify-content: center;
